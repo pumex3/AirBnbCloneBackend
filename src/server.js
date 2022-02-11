@@ -11,9 +11,6 @@ mongose.connect('mongodb+srv://pumex3:pumex3@aleixossoftware-9epej.mongodb.net/a
     useUnifiedTopology: true,
 })
 
-//req.query = acessar query params ( filtrs)
-//req.params = acessar route params ( para adição, delete)
-//req.body = acessar o corpo da requisiçã ( criação, edição)
 
 
 //Middlewares
